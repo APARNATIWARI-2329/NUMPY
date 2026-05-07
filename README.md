@@ -51,7 +51,7 @@ The main goal of this repository is to:
 Special thanks to:
 
 * 🎥 CodeWithHarry
-* 🎥 Code with Sagar
+* 🎥 Coding with Sagar
 
 for providing amazing tutorials and guidance throughout the learning journey.
 
